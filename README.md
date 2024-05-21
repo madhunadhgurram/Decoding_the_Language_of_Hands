@@ -9,3 +9,12 @@ Tkinter is a graphical user interface (GUI) module for Python, you can make desk
 To Install the Tkinter, Open up the command prompt and use the below command:
 
     pip install tk
+
+# YOLO (You Only Look Once)
+You Only Look Once (YOLO) is a powerful neural network architecture that excels in real-time object detection. 
+It Empowers : * Object Detection Expertise
+              * Real-Time Performance 
+              * Single-Stage Advantage
+# OpenCV
+OpenCV is a Python library that is used to study images and video streams. It basically extracts the pixels from the images and videos (stream of image) so as to study the objects and thus obtain what they contain. It contains low-level image processing and high-level algorithms for object detection, feature matching etc.
+
