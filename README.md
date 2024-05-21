@@ -1,7 +1,7 @@
 # Decoding_the_Language_of_Hands-SignLanguage
 
 
-ABSTRACT
+*ABSTRACT*
 A comprehensive solution aimed at revolutionizing communication for deaf and 
 mute individuals, particularly in critical situations. We address the communication gap 
 through a groundbreaking vision-based technique for hand gesture recognition. The core 
