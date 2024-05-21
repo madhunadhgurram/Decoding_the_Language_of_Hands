@@ -20,3 +20,9 @@ It Empowers:-
 # OpenCV
 OpenCV is a Python library that is used to study images and video streams. It basically extracts the pixels from the images and videos (stream of image) so as to study the objects and thus obtain what they contain. It contains low-level image processing and high-level algorithms for object detection, feature matching etc.
 
+# PIL
+It Stands for Python Imaging Library (PIL), which is now known as Pillow. It is a powerful library for working with images in Python and provides extensive image processing capabilities, file format support, and efficient internal representation for Python. The core image library is designed for fast access to data stored in basic pixel formats.
+It has the Features like,
+* Image Processing: Pillow allows you to perform various image manipulation tasks, such as resizing, cropping, filtering, and more.
+* File Format Support: It can open, manipulate, and save many different image file formats.
+* Documentation: Pillow comes with comprehensive documentation to guide you through its usage
