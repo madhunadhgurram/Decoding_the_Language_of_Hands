@@ -8,4 +8,4 @@ Our project transcends mere gesture recognition. We seamlessly integrate cutting
 Tkinter is a graphical user interface (GUI) module for Python, you can make desktop apps with Python. You can make windows, buttons, show text and images amongst other things. The module Tkinter is an interface to the Tk GUI toolkit. Tkinter is the most commonly used library for developing GUI in Python. It is a standard Python interface to the Tk GUI toolkit shipped with Python.
 To Install the Tkinter, Open up the command prompt and use the below command:
 
-                       *pip install tk*
+    pip install tk
