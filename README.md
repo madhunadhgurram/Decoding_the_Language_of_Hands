@@ -1,4 +1,4 @@
-# Decoding_the_Language_of_Hands-SignLanguage
+# Decoding_the_Language_of_Hands-Sign_Language
 
 
 # ABSTRACT
