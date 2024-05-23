@@ -12,6 +12,7 @@ To Install the Tkinter, Open up the command prompt and use the below command:
 
 # * YOLO (You Only Look Once)
 You Only Look Once (YOLO) is a powerful neural network architecture that excels in real-time object detection. It is the Algorithm we used in the Project to detect the Signs with Accuracy.
+
 It Empowers:
 * Object Detection Expertise
 * Real-Time Performance 
