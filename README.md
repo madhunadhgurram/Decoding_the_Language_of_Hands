@@ -1,4 +1,4 @@
-# ---------->>  Decoding the Language of Hands - Machine Learning in Sign Language  <<------------
+# --->>  Decoding the Language of Hands - Machine Learning in Sign Language  <<---
 
 # Implementation Video of the Project:-
 * Complete Working of the Project with Conversion of Hand Signs from Datasets to Text from Image Module (Static), Webcam Access (Dynamic) Can be Seen by the following Implementation Video.
