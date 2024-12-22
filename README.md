@@ -55,6 +55,6 @@ If you use pip, you can install NumPy with:
 
 
 
-
+<img src="F:\Final Project\Team Members.jpg" width=30% height=50%>
 
 
