@@ -28,7 +28,7 @@ It Empowers-
 ~ Single-Stage Advantage
 
 # -> Libraries Used for the Project :-
-1. PIL
+1. PIL :
 It Stands for Python Imaging Library (PIL), which is now known as Pillow. It is a powerful library for working with images in Python and provides extensive image processing capabilities, file format support, and efficient internal representation for Python. The core image library is designed for fast access to data stored in basic pixel formats.
 It has the Features like,
 * Image Processing: Pillow allows you to perform various image manipulation tasks, such as resizing, cropping, filtering, and more.
@@ -38,14 +38,23 @@ You can install Pillow using pip:
 
       pip install pillow
 
-2. OpenCV
+2. OpenCV :
 is a Python library that is used to study images and video streams. It basically extracts the pixels from the images and videos (stream of image) so as to study the objects and thus obtain what they contain. It contains low-level image processing and high-level algorithms for object detection, feature matching etc.
 To install OpenCV using pip, you can run the following command in your terminal or command prompt:
 
        pip install opencv-python
 
-3. Numpy
+3. NumPy :
 is a library for the Python programming language, adding support for large, multi-dimensional arrays and matrices, along with a large collection of high-level mathematical functions to operate on these arrays.
 If you use pip, you can install NumPy with:
        
        pip install numpy
+
+
+![Team Members](https://github.com/user-attachments/assets/98f93289-091c-439d-a93f-7e109bd7ba00)
+
+
+
+
+
+
