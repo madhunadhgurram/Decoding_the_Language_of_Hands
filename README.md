@@ -52,5 +52,5 @@ If you use pip, you can install NumPy with:
 
 
 
-<img src="https://github.com/user-attachments/assets/98f93289-091c-439d-a93f-7e109bd7ba00" width=80% height=70% class="center">
+<img src="https://github.com/user-attachments/assets/98f93289-091c-439d-a93f-7e109bd7ba00" width=100% height=70%>
 
