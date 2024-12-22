@@ -39,13 +39,13 @@ You can install Pillow using pip:
       pip install pillow
 
 2. OpenCV
-OpenCV is a Python library that is used to study images and video streams. It basically extracts the pixels from the images and videos (stream of image) so as to study the objects and thus obtain what they contain. It contains low-level image processing and high-level algorithms for object detection, feature matching etc.
+is a Python library that is used to study images and video streams. It basically extracts the pixels from the images and videos (stream of image) so as to study the objects and thus obtain what they contain. It contains low-level image processing and high-level algorithms for object detection, feature matching etc.
 To install OpenCV using pip, you can run the following command in your terminal or command prompt:
 
        pip install opencv-python
 
 3. Numpy
-NumPy is a library for the Python programming language, adding support for large, multi-dimensional arrays and matrices, along with a large collection of high-level mathematical functions to operate on these arrays.
+is a library for the Python programming language, adding support for large, multi-dimensional arrays and matrices, along with a large collection of high-level mathematical functions to operate on these arrays.
 If you use pip, you can install NumPy with:
        
        pip install numpy
