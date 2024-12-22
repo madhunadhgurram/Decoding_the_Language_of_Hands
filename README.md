@@ -51,6 +51,6 @@ If you use pip, you can install NumPy with:
        pip install numpy
 
 
-<img src="https://github.com/user-attachments/assets/98f93289-091c-439d-a93f-7e109bd7ba00" width=90% height=80% alt="Centered Image" Class="Center">
-
-<img src="https://github.com/user-attachments/assets/84559d12-f5ee-4011-a636-5d9910efddf1" width=90% height=80% alt="Paris" class="center">
+<img src="https://github.com/user-attachments/assets/98f93289-091c-439d-a93f-7e109bd7ba00" width=80% height=70%>
+#
+<img src="https://github.com/user-attachments/assets/84559d12-f5ee-4011-a636-5d9910efddf1" width=80% height=70%>
