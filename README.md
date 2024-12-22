@@ -1,4 +1,4 @@
-# Decoding the Language of Hands-Machine Learning in Sign Language
+# Decoding the Language of Hands-Machine Learning in Sign Language.
 
 
 # -> Working demonstration of the project :-
