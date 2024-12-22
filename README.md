@@ -51,10 +51,6 @@ If you use pip, you can install NumPy with:
        pip install numpy
 
 
-![Team Members](https://github.com/user-attachments/assets/98f93289-091c-439d-a93f-7e109bd7ba00)
 
-
-
-
-<img src="https://github.com/user-attachments/assets/98f93289-091c-439d-a93f-7e109bd7ba00" width=30% height=50%>
+<img src="https://github.com/user-attachments/assets/98f93289-091c-439d-a93f-7e109bd7ba00" width=50% height=70%>
 
