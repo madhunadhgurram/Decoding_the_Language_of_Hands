@@ -50,9 +50,3 @@ If you use pip, you can install NumPy with:
        
        pip install numpy
 
-      # Team of the project
-<img src="https://github.com/user-attachments/assets/98f93289-091c-439d-a93f-7e109bd7ba00" width=90% height=50%>
-
-##  
-
-<img src="https://github.com/user-attachments/assets/84559d12-f5ee-4011-a636-5d9910efddf1" width=90% height=50%>
