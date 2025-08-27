@@ -6,14 +6,14 @@
 - "GoogleTrans" is an open-source python library which provides an interface to translate various languages within the python program. (Bash Command : pip install googletrans)
 
 We used various libraries like,
-PIL (or) Pillow - For image processing in python. (Filtering, image enhancement, and color operations etc.) (Bash Command : pip install pillow)
-OpenCV - For Image and Video Processing.
-NumPy - For handling and manipulating numerical data which extracted from hand gestures.
+* PIL (or) Pillow - For image processing in python. (Filtering, image enhancement, and color operations etc.) (Bash Command : pip install pillow)
+* OpenCV - For Image and Video Processing.
+* NumPy - For handling and manipulating numerical data which extracted from hand gestures.
 
 From Deep Learning based approaches, we used-
-Convolutional Neural Networks (CNN) – Used for image-based gesture recognition (e.g., hand shapes, facial expressions).
-YOLO (You Only Look Once) – Used for real-time hand detection in sign language. (Unlike other algorithms, YOLO processes an image in a single neural network pass, making it fast.)
-MediaPipe by Google – Real-time hand tracking and gesture recognition. (It is used to Capture video input using OpenCV and converts detected signs into text & speech output.)
+* Convolutional Neural Networks (CNN) – Used for image-based gesture recognition (e.g., hand shapes, facial expressions).
+* YOLO (You Only Look Once) – Used for real-time hand detection in sign language. (Unlike other algorithms, YOLO processes an image in a single neural network pass, making it fast.)
+* MediaPipe by Google – Real-time hand tracking and gesture recognition. (It is used to Capture video input using OpenCV and converts detected signs into text & speech output.)
 
 ### Difficulties faced ??
 > While implementing the model using the YOLOv3 algorithm, we faced major challenges with localization, as it sometimes produced inaccurate bounding boxes for closely placed or irregularly shaped gestures.
